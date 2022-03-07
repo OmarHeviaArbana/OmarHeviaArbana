@@ -16,7 +16,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### About Me :
 
 I'm a UX/UI Designer learning fullstack development from Spain .
 
@@ -30,7 +30,7 @@ I'm a UX/UI Designer learning fullstack development from Spain .
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 
 <div align="center">
 
