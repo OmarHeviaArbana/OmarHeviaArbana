@@ -1,22 +1,10 @@
-<div align="center">
-<h2>Hi there 👋,  I'm <strong>Omar</strong> a UX/UI Designer developing 👨‍💻 </h2>
-
-
-<br>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <a href="https://www.linkedin.com/in/omarheviaarbana/">
-  </a><br>
-
-
-
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-
+<div align ="center">
+  <h2>Hi there 👋,  I'm <strong>Omar</strong> a UX Designer and Web Developer coding 👨‍💻 </h2><br>
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div><br>
 
 ---
-
-### :man_technologist: About Me :
+###  About Me:
 
 I'm a UX/UI Designer learning fullstack development from Spain .
 
@@ -26,17 +14,17 @@ I'm a UX/UI Designer learning fullstack development from Spain .
 
 - 🚀 I want to enter the tech sector as a professional with an end-to-end vision.
 
-- 📧 You can contact me on linkedin. 
+- 📧 You can contact me on linkedIn: <a href="https://www.linkedin.com/in/omarheviaarbana/"> www.linkedin.com/in/omarheviaarbana/</a>
 
 ---
+###  My Stats:
 
-### :fire: My Stats :
+<div align= "center">
 
-<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UxerDevCoding&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UxerDevCoding&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UxerDevCoding&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
