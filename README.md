@@ -1,6 +1,6 @@
 <div align ="center">
   <h2>Hi there 👋,  I'm <strong>Omar</strong> a UX Designer and Web Developer coding 👨‍💻 </h2><br>
-    <img src="assets\Cover.png" width="741" height="368"/>
+    <img src="assets\Cover.png" width="741" height="368" style=" box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
 </div><br>
 
 ---
