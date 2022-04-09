@@ -1,6 +1,6 @@
 <div align ="center">
   <h2>Hi there 👋,  I'm <strong>Omar</strong> a UX Designer and Web Developer coding 👨‍💻 </h2><br>
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+    <img src="assets\Cover.png" width="741" height="368"/>
 </div><br>
 
 ---
@@ -10,7 +10,7 @@ I'm a UX/UI Designer learning fullstack development from Spain .
 
 - 👨‍🎓 I have a degree in design and digital creation and a master's degree in user experience and interaction design.
 
-- 👨‍💻 I am currently studying a fullstack web development bootcamp.
+- 👨‍💻 I just finished a fullstack web development bootcamp.
 
 - 🚀 I want to enter the tech sector as a professional with an end-to-end vision.
 
