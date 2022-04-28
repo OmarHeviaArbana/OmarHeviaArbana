@@ -12,7 +12,7 @@ I'm a UX/UI Designer learning fullstack development from Spain .
 
 - 👨‍💻 I just finished a fullstack web development bootcamp.
 
-- 🚀 I want to enter the tech sector as a professional with an end-to-end vision.
+- 🚀 I recently got my first job as a front-end developer and UI designer.
 
 - 📧 You can contact me on linkedIn: <a href="https://www.linkedin.com/in/omarheviaarbana/"> www.linkedin.com/in/omarheviaarbana/</a>
 
