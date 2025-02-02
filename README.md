@@ -1,5 +1,5 @@
 <div align ="center">
-  <h2>Hi there 👋,  I'm <strong>Omar</strong> a UX Designer and Web Developer coding 👨‍💻 </h2><br>
+  <h2>Hi there 👋,  I'm <strong>Omar</strong> a FrontEnd Developer and UX/UI Designer acoding 👨‍💻 </h2><br>
     <img src="assets\Cover.png" width="741" height="368" style=" box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
 </div><br>
 
@@ -7,12 +7,12 @@
 ###  About Me:
 
 I'm a UX/UI Designer learning fullstack development from Spain .
-
-- 👨‍🎓 I have a degree in design and digital creation and a master's degree in user experience and interaction design.
-
-- 👨‍💻 I just finished a fullstack web development bootcamp.
-
-- 🚀 I recently got my first job as a front-end developer and UI designer.
+ 
+- 💼 I'm a Frontend Developer at Vitesia Mobile Solutions since 2023.
+  
+- 🎓 I have a degree in Design and Digital Creation and a master's degree in User Experience and Interaction Design.
+  
+- 💻 Currently, I'm studying a master's degree in Web Development and Applications.
 
 - 📧 You can contact me on linkedIn: <a href="https://www.linkedin.com/in/omarheviaarbana/"> www.linkedin.com/in/omarheviaarbana/</a>
 
