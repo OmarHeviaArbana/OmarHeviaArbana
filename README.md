@@ -21,9 +21,9 @@ I'm a UX/UI Designer learning fullstack development from Spain .
 
 <div align= "center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UxerDevCoding&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarHeviaArbana&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UxerDevCoding&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OmarHeviaArbanatheme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
