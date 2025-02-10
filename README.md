@@ -1,8 +1,7 @@
 <div align ="center">
   <h2>Hi there 👋,  I'm <strong>Omar</strong> a FrontEnd Developer and UX/UI Designer acoding 👨‍💻 </h2><br>
-</div><br>
+</div>
 
----
 ###  About Me:
 
 I'm a UX/UI Designer learning fullstack development from Spain .
@@ -23,7 +22,7 @@ I'm a UX/UI Designer learning fullstack development from Spain .
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarHeviaArbana&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OmarHeviaArbanatheme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OmarHeviaArbana?theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -46,9 +45,6 @@ I'm a UX/UI Designer learning fullstack development from Spain .
   </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <a href="https://material.angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/generated/images/marketing/materialdesign/material-angular.png" alt="angular material" width="40" height="40"/>
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
@@ -79,8 +75,5 @@ I'm a UX/UI Designer learning fullstack development from Spain .
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
   </a>
 </p>
