@@ -1,5 +1,5 @@
 <div align ="center">
-  <h2>Hi there 👋,  I'm <strong>Omar</strong> a FrontEnd Developer and UX/UI Designer coding 👨‍💻 </h2><br>
+  <h2>Hi there 👋,  I'm <strong>Omar</strong> a FrontEnd Developer and UX/UI Designer learning by doing 👨‍💻 </h2><br>
 </div>
 
 ###  About Me:
