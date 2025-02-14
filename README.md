@@ -6,8 +6,6 @@
 
 I'm a UX/UI Designer learning fullstack development from Spain .
  
-- 💼 I'm a Frontend Developer at Vitesia Mobile Solutions since 2023.
-  
 - 🎓 I have a degree in Design and Digital Creation and a master's degree in User Experience and Interaction Design.
   
 - 💻 Currently, I'm studying a master's degree in Web Development and Applications.
