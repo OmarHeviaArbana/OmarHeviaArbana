@@ -1,5 +1,5 @@
 <div align ="center">
-  <h2>Hi there 👋,  I'm <strong>Omar</strong> a FrontEnd Developer and UX/UI Designer learning by doing 👨‍💻 </h2><br>
+  <h2>Hi there 👋,  I'm <strong>Omar</strong> a FrontEnd Developer and UX/UI Designer learning by doing 👨‍💻 </h2>
 </div>
 
 ###  About Me:
@@ -13,17 +13,6 @@ I'm a UX/UI Designer learning fullstack development from Spain .
 - 💻 Currently, I'm studying a master's degree in Web Development and Applications.
 
 - 📧 You can contact me on linkedIn: <a href="https://www.linkedin.com/in/omarheviaarbana/"> www.linkedin.com/in/omarheviaarbana/</a>
-
----
-
-###  My Stats:
-
-<div align= "center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarHeviaArbana&theme=default&show_icons=true&hide_border=true&layout=compact)<br><br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarHeviaArbana&theme=default&show_icons=true&hide_border=true&count_private=true)
-
-</div>
 
 ---
 
@@ -88,3 +77,16 @@ I'm a UX/UI Designer learning fullstack development from Spain .
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
   </a>
 </p>
+
+---
+
+###  My Stats:
+
+<div align= "center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarHeviaArbana&theme=default&show_icons=true&hide_border=true&layout=compact)<br><br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarHeviaArbana&theme=default&show_icons=true&hide_border=true&count_private=true)
+
+</div>
+
+
