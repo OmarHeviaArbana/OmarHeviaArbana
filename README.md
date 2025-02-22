@@ -4,11 +4,11 @@
 
 ###  About Me:
 
-I'm a UX/UI Designer learning fullstack development from Spain .
+- 🖥️ Multidisciplinary professional with over 3 years of experience in front-end development and user experience, interaction, and interface design.
  
-- 🎓 I have a degree in Design and Digital Creation and a master's degree in User Experience and Interaction Design.
+- 🎓 I have a Degree in Design and Digital Creation and a Master's degree in User Experience and Interaction Design.
   
-- 💻 Currently, I'm studying a master's degree in Web Development and Applications.
+- 💻 I’m constantly expanding my skills, currently deepening my expertise with a Master's degree in Web Development and Applications.
 
 - 📧 You can contact me on linkedIn: <a href="https://www.linkedin.com/in/omarheviaarbana/"> www.linkedin.com/in/omarheviaarbana/</a>
 
