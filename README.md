@@ -1,16 +1,28 @@
 <div align ="center">
-  <h2>Hi there 👋,  I'm <strong>Omar</strong> a FrontEnd Developer and UX/UI Designer learning by doing 👨‍💻 </h2>
+  <h2>Hi there 👋,  I'm <strong>Omar</strong> a 🚀 Frontend Developer | UX/UI Designer | Digital Experience Creator learning by doing 👨‍💻 </h2>
 </div>
 
 ###  About Me:
 
-- 🖥️ Multidisciplinary professional with over 3 years of experience in front-end development and user experience, interaction, and interface design.
- 
-- 🎓 I have a Degree in Design and Digital Creation and a Master's degree in User Experience and Interaction Design.
-  
-- 💻 I’m constantly expanding my skills, currently deepening my expertise with a Master's degree in Web Development and Applications.
+I’m a multidisciplinary professional with over 3 years of experience in front-end development and user experience, interaction, and interface design. My goal is to bridge the gap between design and development, crafting digital products that are not only functional but also engaging and user-friendly.
 
-- 📧 You can contact me on linkedIn: <a href="https://www.linkedin.com/in/omarheviaarbana/"> www.linkedin.com/in/omarheviaarbana/</a>
+💡 Tech & Design Expertise
+I specialize in JavaScript, TypeScript, Vue, and Angular to develop high-performance web applications, while leveraging Figma and UX/UI principles to create seamless digital experiences. I thrive in projects that require a strong design mindset combined with technical execution.
+
+📱 Web, Mobile & Any Device Applications
+I have experience designing and developing applications optimized for various platforms, ensuring a smooth and consistent user experience across different devices.
+
+🎓 Continuous Learning & Growth
+I hold a degree in Design and Digital Creation and a master's degree in User Experience and Interaction Design. Currently, I’m further expanding my expertise with a master’s in Web Development and Applications, continuously refining my skills and applying them to real-world projects.
+
+🎯 What I Bring to the Table
+
+- A blend of creativity and technical skills, ensuring high-quality product development.
+- A user-centered approach, balancing aesthetics, usability, and functionality.
+- The ability to collaborate with multidisciplinary teams to deliver impactful digital solutions.
+  
+📩 Let’s connect! I’m open to new challenges and opportunities. Feel free to reach out on LinkedIn:
+<a href="https://www.linkedin.com/in/omarheviaarbana/">www.linkedin.com/in/omarheviaarbana/</a>
 
 ---
 
