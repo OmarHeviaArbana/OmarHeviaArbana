@@ -6,16 +6,16 @@
 
 I’m a multidisciplinary professional with over 3 years of experience in front-end development and user experience, interaction, and interface design. My goal is to bridge the gap between design and development, crafting digital products that are not only functional but also engaging and user-friendly.
 
-💡 Tech & Design Expertise
-I specialize in JavaScript, TypeScript, Vue, and Angular to develop high-performance web applications, while leveraging Figma and UX/UI principles to create seamless digital experiences. I thrive in projects that require a strong design mindset combined with technical execution.
+💡 <strong>Tech & Design Expertise</strong>
+- I specialize in JavaScript, TypeScript, Vue, and Angular to develop high-performance web applications, while leveraging Figma and UX/UI principles to create seamless digital experiences. I thrive in projects that require a strong design mindset combined with technical execution.
 
-📱 Web, Mobile & Any Device Applications
-I have experience designing and developing applications optimized for various platforms, ensuring a smooth and consistent user experience across different devices.
+📱 <strong>Web, Mobile & Any Device Applications</strong>
+- I have experience designing and developing applications optimized for various platforms, ensuring a smooth and consistent user experience across different devices.
 
-🎓 Continuous Learning & Growth
-I hold a degree in Design and Digital Creation and a master's degree in User Experience and Interaction Design. Currently, I’m further expanding my expertise with a master’s in Web Development and Applications, continuously refining my skills and applying them to real-world projects.
+🎓 <strong>Continuous Learning & Growth</strong>
+- I hold a degree in Design and Digital Creation and a master's degree in User Experience and Interaction Design. Currently, I’m further expanding my expertise with a master’s in Web Development and Applications, continuously refining my skills and applying them to real-world projects.
 
-🎯 What I Bring to the Table
+🎯 <strong>What I Bring to the Table</strong>
 
 - A blend of creativity and technical skills, ensuring high-quality product development.
 - A user-centered approach, balancing aesthetics, usability, and functionality.
